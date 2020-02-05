@@ -1,0 +1,11 @@
+logs/
+__pycache__
+emnist/
+utils/data_iterators/cifar100
+*.tar.gz
+*.zip
+.vscode
+checkpoint
+*.ckpt*
+logs*
+*.gz

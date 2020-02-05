@@ -1,0 +1,14 @@
+tensorflow==1.14.0 # add/remove -gpu when required to be run on gpu
+numpy==1.16.4
+Keras==2.2.4
+scipy==1.2.0
+matplotlib==3.0.3
+googledrivedownloader==0.4
+requests==2.21.0
+pyperclip==1.7.0
+opencv_python==4.1.0.25
+tqdm==4.32.2
+tensorflow_probability==0.7.0
+pygtrie==2.3.2
+colorama==0.4.1
+pillow==7.0.0
