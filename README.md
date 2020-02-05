@@ -8,6 +8,7 @@ This repo contains the code accompanying the SafeAI-20 paper "Simple Continual L
 }
 ```
 
+**Paper**: Link will be updated after publication in CEUR-WS.
 
 **Methods**:
 
