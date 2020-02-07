@@ -55,4 +55,4 @@ python3 ewcgrad.py -dataset {datasetid} -const {lambda} -fix {p value}
 
 **License**:
 
-MIT except for EWC/SI code. For EWC/SI code, also check the licensing information in repositories provided in references.
+MIT License. For EWC/SI code, also check the licensing information in repositories provided in references.
