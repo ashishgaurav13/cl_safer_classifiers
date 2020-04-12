@@ -1,14 +1,14 @@
 This repo contains the code accompanying the SafeAI-20 paper "Simple Continual Learning Strategies for Safer Classifiers". To cite this work, please use the following bibtex entry:
 
 ```
-@article{gaurav2020simple,
+@article{gauravsimple,
   title={Simple Continual Learning Strategies for Safer Classifiers},
   author={Gaurav, Ashish and Vernekar, Sachin and Lee, Jaeyoung and Abdelzad, Vahdat and Czarnecki, Krzysztof and Sedwards, Sean},
   year={2020}
 }
 ```
 
-**Paper**: Link will be updated after [SafeAI-20](https://safeai.webs.upv.es/) proceedings are published in CEUR-WS.
+**Paper**: [[Workshop Proceedings](http://ceur-ws.org/Vol-2560/)] [[Paper PDF](http://ceur-ws.org/Vol-2560/paper6.pdf)]
 
 **Parameters for Methods**:
 * `{datasetid}`: could be P-MNIST (0), S-MNIST (1), Sim-EMNIST (2), CIFAR100 (3), Sim-CIFAR100 (4)
