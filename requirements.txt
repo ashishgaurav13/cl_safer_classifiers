@@ -11,4 +11,4 @@ tqdm==4.32.2
 tensorflow_probability==0.7.0
 pygtrie==2.3.2
 colorama==0.4.1
-pillow==7.0.0
+pillow==9.0.1
