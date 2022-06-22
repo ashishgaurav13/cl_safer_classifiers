@@ -1,5 +1,5 @@
 tensorflow==1.14.0 # add/remove -gpu when required to be run on gpu
-numpy==1.16.4
+numpy==1.22.0
 Keras==2.2.4
 scipy==1.2.0
 matplotlib==3.0.3
